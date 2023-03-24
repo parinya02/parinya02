@@ -8,11 +8,6 @@ Major: Computer Science
 
 Email: kkokklove26@gmail.com
 
-## 🔗 Social
-[facebook](https://www.facebook.com/ParinyaMuhammat)
-
-
-
 
 # Collection of works (ui)
 
